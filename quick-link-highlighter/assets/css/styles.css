@@ -1,0 +1,13 @@
+/* Style for external links */
+.qlh-external-link {
+    color: #0073e6; /* Change link color */
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Add an icon after external links */
+.qlh-external-link::after {
+    content: " ↗";
+    font-size: 0.8em;
+    margin-left: 3px;
+}
