@@ -1,5 +1,5 @@
 === Quick Link Highlighter ===
-Contributors: Your Name
+Contributors: Ranjeet
 Tags: external links, highlight, accessibility
 Requires at least: 5.0
 Tested up to: 6.0
